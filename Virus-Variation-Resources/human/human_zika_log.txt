@@ -1,0 +1,106 @@
+Generating a tree using FastTree...
+Opening sequence file...
+  sequence length: 11,072.
+  lcl|KX893855.1_cds_AOR87336.1_1 is the outgroup.
+Opening tree file...
+  144 environmental sequences.
+  0.66 diversity sampled.
+Running binning...
+The result from binning:
+  0.800: 3
+  0.810: 3
+  0.820: 3
+  0.830: 3
+  0.840: 4
+  0.850: 4
+  0.860: 4
+  0.870: 4
+  0.880: 4
+  0.890: 4
+  0.900: 4
+  0.910: 4
+  0.920: 4
+  0.930: 4
+  0.940: 5
+  0.950: 6
+  0.955: 6
+  0.960: 9
+  0.965: 9
+  0.970: 9
+  0.975: 11
+  0.980: 12
+  0.981: 13
+  0.982: 16
+  0.983: 16
+  0.984: 16
+  0.985: 17
+  0.986: 17
+  0.987: 18
+  0.988: 18
+  0.989: 18
+  0.990: 18
+  0.991: 22
+  0.992: 31
+  0.993: 32
+  0.994: 41
+  0.995: 54
+  0.996: 63
+  0.997: 77
+  0.998: 95
+  0.999: 121
+  1.000: 143
+
+Running parameter estimate...
+The estimated parameters:
+  npop:        9
+  omega:       0.0011
+  sigma:       0.0166
+
+Running hillclimbing...
+Starting with precision: 1.50x
+The result from hillclimb:
+  npop:        12
+  omega:       0.0012
+  sigma:       0.0233
+  likelihood:  0.0002
+
+Running npop confidence interval...
+The result from npopCI:
+  12 to 12 (0.0002000, 0.0002000)
+
+Running omega confidence interval...
+The result from omegaCI:
+  0.001230 to 0.001230 (0.0002000, 0.0002000)
+
+Running sigma confidence interval...
+The result from sigmaCI:
+  0.02335 to 0.02335 (0.0002000, 0.0002000)
+
+Running demarcation...
+The result from demarcation:
+  Ecotype    1: [FJ425721]
+  Ecotype    2: [KT359349]
+  Ecotype    3: [MH021189, KX375812, KU206781, KF179639, KJ883345, KJ883349, KJ883348, KJ883343, KJ883344, KJ883342, KJ577739, KJ883350, KJ577738, KJ883346, KY594040]
+  Ecotype    4: [MF984338, MF984343]
+  Ecotype    5: [KF647249, KF647252, KP789960, KF588365, KF647251, KF647250, KP789957, KP789959, KP789953, KP789954, KF823806, KP789955, KP789956, KP789958, JN858070]
+  Ecotype    6: [MF984341, MF984347, KM659876, KP109691, MF984348, MF984346, MF984340, MF984342, MF984337]
+  Ecotype    7: [MF984339]
+  Ecotype    8: [EF429198, EF429197]
+  Ecotype    9: [EF429200, EF429199]
+  Ecotype   10: [DQ256376, KU978770]
+  Ecotype   11: [KT934797]
+  Ecotype   12: [HM051416]
+  Ecotype   13: [HM152775, GU011992, KF234080, JN858069, JQ928175, JQ928174, JX556213, KF647253, KC954092, MF797870, AY278442, AF317203, AY277252]
+  Ecotype   14: [KC601756, AY278441, JX041634]
+  Ecotype   15: [HM152773]
+  Ecotype   16: [AF202541, KJ786934, AF533540]
+  Ecotype   17: [DQ164202, DQ431697]
+  Ecotype   18: [KM012181]
+  Ecotype   19: [AY646354, DQ431701, DQ431703]
+  Ecotype   20: [JQ700440, KM012174, KM012170]
+  Ecotype   21: [JQ700442, KM012182, KM012185, KM012180, KM012184, KM012171, KM012177, KM012176, KM012183, KM012187, KM012178, KT020853, JQ700439, KM012179, KM012188, KM012186]
+  Ecotype   22: [DQ164200, KM012173, DQ431698]
+  Ecotype   23: [DQ431699]
+  Ecotype   24: [GQ507481, DQ164199, DQ164205, DQ164198, DQ431693, JQ700438, DQ431707, DQ431706, DQ164201, GQ507484, GQ507469, GQ507468, GQ507482, DQ431712, GQ507480, KM012172, GQ507470, GQ507471, GQ507479, DQ431711, DQ431704, DQ431702]
+  Ecotype   25: [DQ431696, DQ164196, DQ164197, DQ431695]
+  Ecotype   26: [JQ700441, KM012175, DQ431700, DQ431708, DQ431709, GQ507473, GQ507475, DQ431710, GQ507474, GQ507483, GQ507476, GQ507477, GQ507478, DQ431705, DQ431694, GQ507472]
