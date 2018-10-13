@@ -43,18 +43,22 @@ alignments = file.read().split('>')	# list of str
 nameSeq = [nameSeq(s) for s in alignments if s != ''] #[(name, seq)]
 print('>number of sequences: ', len(nameSeq))
 print('>sequence length: ', len(nameSeq[0][1]), 'bp' )
-# for i in range(10):
-# 	print(len(nameSeq[i][1]))
+
 
 gaps = findGaps(nameSeq)
 print('>number of gaps found:', len(gaps))
 nameSeq_ = [(name, removeGaps(seq, gaps)) for (name, seq) in nameSeq]
 print('>sequence length after gaps removed: ', len(nameSeq_[0][1]), 'bp' )
-# for j in range(10):
-# 	print(len(nameSeq_[j][1]))
+
 
 #write resulting sequences to file, overwrite if existed
-file = open(filename + '_removeGaps.fa', 'w+')
+newFilename = ''
+for s in filename.split('.'):
+	if (s != 'fa') and (s != 'fasta'):
+		newFilename += s
+newFilename += '_removeGaps.fa'
+
+file = open(newFilename, 'w+')
 for seq in nameSeq_:
 	file.write('>'+seq[0]+'\n')
 	file.write(seq[1]+'\n')
