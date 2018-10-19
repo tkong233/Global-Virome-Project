@@ -27,7 +27,9 @@ print('>number of ecotypes: ', len(Ecotypes))
 print('>number of (accession, host)', len(accession_host))
 print('>number of ecotypes in newLog: ', len(newLog))
 
-newFileName = 'new_' + logFileName
+
+
+newFileName = input('>name output file: ')
 newFile = open(newFileName, 'w+')
 
 for i, s in enumerate(newLog):
