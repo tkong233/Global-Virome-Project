@@ -1,0 +1,18 @@
+,Host,Ecotype 1,Ecotype 2,Ecotype 3,Ecotype 4,Ecotype 5,Ecotype 6,Ecotype 7,Ecotype 8,Ecotype 9,Ecotype 10,Ecotype 11,Ecotype 12,Ecotype 13,Ecotype 14,Ecotype 15,Ecotype 16,Ecotype 17,Ecotype 18,Ecotype 19,Ecotype 20,Ecotype 21,Ecotype 22,Ecotype 23,Ecotype 24,Ecotype 25
+0,Culex quinquefasciatus,0,0,0,1,10,3,1,0,0,0,4,0,15,22,0,1,0,0,0,0,3,8,0,0,2
+1,Aedes cinereus,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0
+2,Culicidae,0,2,0,0,1,0,0,1,0,0,0,3,5,3,0,0,0,0,0,0,0,1,0,0,3
+3,Culex annulirostris,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0
+4,Culex restuans,0,1,5,0,1,1,0,1,2,1,0,0,1,0,0,0,1,0,0,1,0,0,3,0,0
+5,Ochlerotatus triseriatus,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+6,Culex pipiens,3,12,11,0,4,6,0,9,2,0,1,1,10,2,0,2,4,5,0,6,1,12,11,0,10
+7,Ochlerotatus cantator,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,Aedes albopictus,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Culiseta melanura,0,2,2,0,1,2,0,1,0,1,0,0,0,0,0,0,7,1,0,0,0,1,4,0,0
+10,Culex salinarius,0,2,2,0,2,1,0,4,2,0,0,0,1,0,1,0,3,0,0,0,0,0,5,0,0
+11,Aedes vexans,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0
+12,Psorophora ferox,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Ochlerotatus sollicitans,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+14,Ochlerotatus sticticus,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+15,Ochlerotatus trivittatus,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+16,Culex tarsalis,0,0,0,0,25,0,4,0,0,0,1,0,10,20,0,0,1,0,0,0,0,1,0,0,0

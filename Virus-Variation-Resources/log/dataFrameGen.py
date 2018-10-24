@@ -1,4 +1,4 @@
-Gfrom ecotypeUtils import *
+from ecotypeUtils import *
 from functools import reduce
 from itertools import groupby
 import pandas as pd
@@ -31,6 +31,7 @@ Ecotypes = readLog()
 accession_host = readSource()
 
 log = mapAccessionHost(Ecotypes, accession_host)
+log = list(filter(lambda x: len(x)>=5, log))
 countHost = [[i[0]]+i[1] for i in countHost(log)]
 
 col = ['Host']
