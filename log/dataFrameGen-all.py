@@ -29,44 +29,30 @@ def countHost(hosts, log):
 					host[1][i] += 1
 	return h
 
+'''
+takes in a log and returns a subset in which each ecotype has more than 5 samples
+'''
+def moreThanFive(log):
+	return list(filter(lambda x: len(x)>=5, log))
 
-# Ecotypes = readLog()
-# accession_host = readSource()
 
-log_all = mapAccessionHost(readLog(), readSource())
-log_all = list(filter(lambda x: len(x)>=5, log_all))
+log_all = moreThanFive(mapAccessionHost(readLog(), readSource()))
 log_mosquito = mapAccessionHost(readLog(), readSource())
-# print('number of ecotypes in log_all: ', len(log_all))
 hosts_all = hosts(log_all)
-# print('host_all', hosts_all)
-print("number of all hosts: ", len(hosts_all))
 hosts_mosquito = hosts(log_mosquito)
-print("number of mosquito hosts: ", len(hosts_mosquito))
 hosts_remove_mosquito = list(filter(lambda x: not x in hosts_mosquito, hosts_all))
+
+print("number of all hosts: ", len(hosts_all))
+print("number of mosquito hosts: ", len(hosts_mosquito))
 print("number of hosts removed mosquito: ", len(hosts_remove_mosquito))
 
-# print("hosts removed mosquito:", hosts_remove_mosquito)
-# print('init host: ', host_init(hosts_remove_mosquito, log_all))
-print('len init host: ', len(host_init(hosts_remove_mosquito, log_all)))
-
-# print(countHost(hosts_remove_mosquito, log_all))
-
-# countHost = countHost(log_all, hosts_remove_mosquito)
-# print('len countHost: ', len(countHost))
-# print('len countHost[1]', len(countHost[1]))
-# print(countHost)
-
 countHost = [[i[0]]+i[1] for i in countHost(hosts_remove_mosquito, log_all)]
-# print("should be number of rows(hosts except mos): ", len(countHost))
-# print("should be number of cols(#ecotype + 1): ", len(countHost[0]))
 
 col = ['Host']
 for i in range(len(log_all)):
 	col += ['Ecotype ' + str(i+1)]
 
 df = pd.DataFrame(countHost, columns = col)
-
-# print(df)
 filename = input('>name output csv file: ')
 df.to_csv(filename)
 

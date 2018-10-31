@@ -1,3 +1,8 @@
+import xlrd
+import os 
+
+dir_path = os.path.dirname(os.path.realpath(__file__))
+
 '''
 read log in .txt format: Ecotype 1: [FJ159131, AY277251, FJ159129, FJ159130] ....
 return [['Ecotype 1 accessions'], ['Ecotype 2 accessions']]
@@ -25,31 +30,42 @@ def readSource():
 	return accession_host
 
 '''
+read an excel worksheet and return a list of entries where each entry consists of the items in a row,
+e.g.: [[accession, host, country], [accession, host, country]]
+'''
+def readxlsx():
+	sc = input('>name of xlsx: ')
+	loc = (dir_path + '/' + sc)
+	wb = xlrd.open_workbook(loc) 
+	sheet = wb.sheet_by_index(0) 
+	col = sheet.ncols
+	row = sheet.nrows
+	all = []
+	for x in range(row):
+		entry = []
+		for y in range(col):
+			entry += [sheet.cell_value(x, y)]
+		all.append(entry)
+	return all
+
+'''
 take in
 Ecotypes: [['Ecotype 1 accessions'], ['Ecotype 2 accessions']]
-accession_host: [(accession1, host1), (accession2, host2)]
+accession_host: [(accession1, host1, country1), (accession2, host2, country2)]
 
 return
-newLog = [['host 1', 'host 2'], ['host 1']]
+newLog = [ecotype1: [['accession1', 'host1', 'country1'], ['accession2', 'host2']]]
 '''
-def mapAccessionHost(Ecotypes, accession_host):
+def mapAccessionHost(Ecotypes, accession_host_country):
 	newEcotype = []
 	newLog = []
 	for ecotype in Ecotypes:
 		for accession in ecotype:
-			newEcotype += [ahpair[1] for ahpair in accession_host if accession == ahpair[0]]
-		newLog.append(newEcotype)
+			newEcotype += [ahpair for ahpair in accession_host_country if accession == ahpair[0]]
+		if(newEcotype != []):
+			newLog.append(newEcotype)
 		newEcotype = []
-	newLog = [x for x in newLog if x != []]
+	# newLog = [x for x in newLog if x != []]
 	return newLog
 
-'''
-take in newLog: [['Ecotype 1 host 1', 'Ecotype 1 host 2'], ['Ecotype 2 host 1']]
-write to newfile: Ecotype 1: [host1, host2 ...]
-'''
-def writeLog(newLog):
-	newFileName = input('>name output file: ')
-	newFile = open(newFileName, 'w+')
-	for i, s in enumerate(newLog):
-		newFile.write('Ecotype ' + str(i + 1) + ': ' + str(s) + '\n')
-	newFile.close()
+
