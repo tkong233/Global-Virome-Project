@@ -1,0 +1,13 @@
+,Host,Family,Ecotype 1,Ecotype 2,Ecotype 3,,
+0,"Accipiter gentilis, Aquila chrysaetos",Accipitridae,0,2,4,,"G = 50.675, X-squared df = 20, p-value = 0.0001771"
+1,Columba livia,Columbidae,1,0,0,,
+2,"Corvus corone cornix, Pica pica, Corvidae, Corvus frugilegus",Corvidae,5,3,0,,
+3,"Culicidae, Culex pipiens, Anopheles messeae",Culicidae,2,1,12,,
+4,Equus caballus,Equidae,0,2,3,,
+5,Falco,Falconidae,0,0,1,,
+6,Hyalomma marginatum,Ixodidae,2,0,1,,
+7,Laridae,Laridae,0,1,0,,
+8,Passer domesticus,Passeridae,0,1,0,,
+9,Phalacrocorax carbo,Phalacrocoracidae,4,0,0,,
+10,"Aves, Passeriformes",Aves,0,2,1,,
+,,,14,12,22,48,
