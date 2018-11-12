@@ -1,0 +1,4 @@
+Ecotype 1: [['AY277251', 'Dermacentor marginatus', 'Russia']]
+Ecotype 2: [['DQ411030', 'Hyalomma marginatum', 'Russia'], ['DQ377178', 'Hyalomma marginatum', 'Russia']]
+Ecotype 3: [['AF260969', 'Culex pipiens', 'Romania']]
+Ecotype 4: [['KJ934710', 'Hyalomma marginatum', 'Romania'], ['HQ537483', 'Culex pipiens', 'Greece'], ['KT757323', 'Culex pipiens', 'Serbia'], ['KT757320', 'Culex pipiens', 'Serbia'], ['KT757322', 'Culex pipiens', 'Serbia'], ['KT757321', 'Culex pipiens', 'Serbia'], ['KT757318', 'Culex pipiens', 'Serbia'], ['MF984351', 'Culex pipiens', 'Austria'], ['MF984352', 'Culex pipiens', 'Austria'], ['KP109692', 'Culex pipiens', 'Austria'], ['KC496016', 'Culex pipiens', 'Serbia']]

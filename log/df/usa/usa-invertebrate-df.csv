@@ -1,0 +1,18 @@
+,Host,Genus,Family,Order,Class,Ecotype 1,Ecotype 2,Ecotype 3,Ecotype 4,Ecotype 5,Ecotype 6,Ecotype 7,Ecotype 8,Ecotype 9,Ecotype 10,Ecotype 11,Ecotype 12,Ecotype 13,Ecotype 14,Ecotype 15,Ecotype 16,Ecotype 17,Ecotype 18,Ecotype 19,Ecotype 20,Ecotype 21,Ecotype 22,Ecotype 23,Ecotype 24,Ecotype 25,Ecotype 26,Ecotype 27
+0,Culex quinquefasciatus,Culex,Culicidae,Diptera,Insecta,0,3,0,0,0,15,4,8,0,0,0,0,0,3,0,2,0,0,22,0,0,0,0,8,0,0,0
+1,Ochlerotatus sollicitans,Aedes,Culicidae,Diptera,Insecta,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,Psorophora ferox,Psorophora,Culicidae,Diptera,Insecta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+3,Culicidae,,Culicidae,Diptera,Insecta,0,0,3,2,3,0,0,1,0,0,0,0,0,0,0,0,1,0,3,0,2,0,0,1,0,0,0
+4,Aedes cinereus,Aedes,Culicidae,Diptera,Insecta,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1
+5,Ochlerotatus cantator,Ochlerotatus,Culicidae,Diptera,Insecta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+6,Ochlerotatus sticticus,Ochlerotatus,Culicidae,Diptera,Insecta,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,Culex pipiens,Culex,Culicidae,Diptera,Insecta,1,8,1,0,4,6,1,2,0,1,4,1,6,4,0,7,5,3,2,3,13,2,4,7,5,4,2
+8,Culex salinarius,Culex,Culicidae,Diptera,Insecta,2,0,0,0,0,1,0,0,0,0,0,0,1,3,2,2,2,0,1,0,3,0,0,0,1,2,2
+9,Culex restuans,Culex,Culicidae,Diptera,Insecta,0,1,0,0,0,1,0,1,0,0,0,3,2,1,0,1,1,0,0,0,1,1,0,0,2,1,0
+10,Aedes vexans,Aedes,Culicidae,Diptera,Insecta,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,2,0,0
+11,Culex tarsalis,Culex,Culicidae,Diptera,Insecta,0,1,0,0,4,6,1,24,0,0,0,0,0,0,0,4,0,0,20,0,0,0,0,1,0,0,0
+12,Aedes albopictus,Aedes,Culicidae,Diptera,Insecta,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Culiseta melanura,Culiseta,Culicidae,Diptera,Insecta,1,6,0,0,0,0,0,0,1,0,0,1,1,1,0,2,1,1,0,0,2,0,2,0,2,1,1
+14,Culex,Culex,Culicidae,Diptera,Insecta,6,10,11,4,5,16,1,3,7,4,5,0,7,5,4,10,1,1,0,4,5,3,7,18,9,4,3
+15,Ochlerotatus triseriatus,Ochlerotatus,Culicidae,Diptera,Insecta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+16,Ochlerotatus trivittatus,Ochlerotatus,Culicidae,Diptera,Insecta,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0

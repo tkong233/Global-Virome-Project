@@ -1,0 +1,67 @@
+,Host,Family,Order,Class,Ecotype 1,Ecotype 2,Ecotype 3,Ecotype 4,Ecotype 5,Ecotype 6,Ecotype 7,Ecotype 8,Ecotype 9,Ecotype 10,Ecotype 11,Ecotype 12,Ecotype 13,Ecotype 14,Ecotype 15,Ecotype 16,Ecotype 17,Ecotype 18,Ecotype 19,Ecotype 20,Ecotype 21,Ecotype 22,Ecotype 23,Ecotype 24,Ecotype 25,Ecotype 26,Ecotype 27,Ecotype 28,Ecotype 29,Ecotype 30
+0,Turdus migratorius,Turdidae,Passeriformes,Aves,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1
+1,Ochlerotatus trivittatus,,,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Poecile atricapilla,Paridae,Passeriformes,Aves,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Accipiter cooperii,Accipitridae,Accipitriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+4,Psorophora ferox,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+5,Buteo jamaicensis,Accipitridae,Accipitriformes,Aves,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,3,0
+6,Ochlerotatus cantator,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+7,Bubo virginianus,Strigidae,Strigiformes,Aves,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,2,2,0,0,0
+8,Ardeidae,Ardeidae,Pelecaniformes,Aves,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Aves,,,Aves,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+10,Colaptes auratus,Picidae,Piciformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Fulica,Rallidae,Gruiformes,Aves,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,Cyanocitta cristata,Corvidae,Passeriformes,Aves,4,0,10,1,4,3,2,2,6,0,2,5,1,6,5,7,11,3,0,3,7,7,10,2,4,6,6,3,1,0
+13,Butorides virescens,Ardeidae,Pelecaniformes,Aves,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,Corvidae,Corvidae,Passeriformes,Aves,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,Corvus brachyrhynchos,Corvidae,Passeriformes,Aves,9,10,36,3,2,3,9,5,8,8,2,6,2,3,16,5,22,9,3,3,8,12,8,9,13,10,15,11,25,4
+16,Carpodacus mexicanus,Fringillidae,Passeriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+17,Phalacrocoracidae,Phalacrocoracidae,Suliformes,Aves,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Mimus polyglottos,Mimidae,Passeriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,Passer domesticus,Passeridae,Passeriformes,Aves,2,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,3,1,0,0,0,0,0,1,2,0,0,1,1,0
+20,Equus caballus,Equidae,Perissodactyla,Mammalia,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+21,Bonasa umbellus,Phasianidae,Gruiformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+22,Ochlerotatus triseriatus,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+23,Ochlerotatus sollicitans,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+24,Ochlerotatus sticticus,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Corvus,Corvidae,Passeriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,3,1,2,1
+26,Sciuridae,Sciuridae,Rodentia,Mammalia,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Quiscalus,Icteridae,Passeriformes,Aves,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Mesocricetus auratus,Cricetidae,Rodentia,Mammalia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+29,Quiscalus quiscula,Icteridae,Passeriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,Sciurus carolinensis,Sciuridae,Rodentia,Mammalia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
+31,Branta canadensis,Anatidae,Anseriformes,Aves,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,Columbidae,Columbidae,Columbiformes,Aves,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Zenaida macroura,Columbidae,Columbiformes,Aves,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+34,Cardinalis,Cardinalidae,Passeriformes,Aves,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Pica pica,Corvidae,Passeriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+36,Dumetella,Mimidae,Passeriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

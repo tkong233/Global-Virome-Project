@@ -34,7 +34,7 @@ read an excel worksheet and return a list of entries where each entry consists o
 e.g.: [[accession, host, country], [accession, host, country]]
 '''
 def readxlsx():
-	sc = input('>name of xlsx: ')
+	sc = input('>name of accession xlsx file: ')
 	loc = (dir_path + '/' + sc)
 	wb = xlrd.open_workbook(loc) 
 	sheet = wb.sheet_by_index(0) 

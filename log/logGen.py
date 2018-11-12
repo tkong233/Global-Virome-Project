@@ -5,7 +5,7 @@ take in newLog: [['Ecotype 1 host 1', 'Ecotype 1 host 2'], ['Ecotype 2 host 1']]
 write to newfile: Ecotype 1: [host1, host2 ...]
 '''
 def writeLog(newLog):
-	newFileName = input('>name output file: ')
+	newFileName = input('>name output txt file: ')
 	newFile = open(newFileName, 'w+')
 	for i, s in enumerate(newLog):
 		newFile.write('Ecotype ' + str(i + 1) + ': ' + str(s) + '\n')

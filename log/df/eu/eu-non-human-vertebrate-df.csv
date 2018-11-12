@@ -1,0 +1,16 @@
+,Host,Family,Order,Class,Ecotype 1,Ecotype 2,Ecotype 3
+0,Accipiter gentilis,Accipitridae,Accipitriformes,Aves,0,0,4
+1,Aves,,,Aves,0,0,1
+2,Falco,Falconidae,Falconiformes,Aves,0,0,1
+3,Pica pica,Corvidae,Passeriformes,Aves,1,0,0
+4,Corvus corone cornix,Corvidae,Passeriformes,Aves,3,0,0
+6,Columba livia,Columbidae,Columbiformes,Aves,1,0,0
+7,Equus caballus,Equidae,Perissodactyla,Mammalia,0,2,3
+8,Corvidae,Corvidae,Passeriformes,Aves,0,3,0
+9,Laridae,Laridae,Charadriiformes,Aves,0,1,0
+10,Aquila chrysaetos,Accipitridae,Accipitriformes,Aves,0,2,0
+11,Anopheles messeae,,,,2,0,0
+12,Phalacrocorax carbo,Phalacrocoracidae,Suliformes,Aves,4,0,0
+13,Passer domesticus,Passeridae,Passeriformes,Aves,0,1,0
+14,Passeriformes,,Passeriformes,Aves,0,2,0
+15,Corvus frugilegus,Corvidae,Passeriformes,Aves,1,0,0

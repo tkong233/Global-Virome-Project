@@ -1,0 +1,52 @@
+,Host,Family,Order,Class,Ecotype 1,Ecotype 2,Ecotype 3,Ecotype 4,Ecotype 5,Ecotype 6,Ecotype 7,Ecotype 8,Ecotype 9,Ecotype 10,Ecotype 11,Ecotype 12,Ecotype 13,Ecotype 14,Ecotype 15,Ecotype 16,Ecotype 17,Ecotype 18,Ecotype 19,Ecotype 20,Ecotype 21,Ecotype 22,Ecotype 23,Ecotype 24,Ecotype 25,Ecotype 26,Ecotype 27,Ecotype 28,Ecotype 29,Ecotype 30,Ecotype 31,Ecotype 32,Ecotype 33,Ecotype 34
+0,Psorophora ferox,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,Columbidae,Columbidae,Columbiformes,Aves,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Bonasa umbellus,Phasianidae,Galliformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+3,Aquila chrysaetos,Accipitridae,Accipitriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+4,Accipiter cooperii,Accipitridae,Accipitriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+5,Cardinalis,Cardinalidae,Passeriformes,Aves,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Sciuridae,Sciuridae,Rodentia,Mammalia,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Fulica,Rallidae,Gruiformes,Aves,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Hyalomma marginatum,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+9,Turdus migratorius,Turdidae,Passeriformes,Aves,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+10,Ardeidae,Ardeidae,Pelecaniformes,Aves,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Sciurus carolinensis,Sciuridae,Rodentia,Mammalia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+12,Mimus polyglottos,Mimidae,Passeriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Quiscalus,Icteridae,Passeriformes,Aves,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,Phalacrocorax carbo,Phalacrocoracidae,Suliformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+15,Buteo jamaicensis,Accipitridae,Accipitriformes,Aves,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,3,0,0,0,0,0
+16,Columba livia,Columbidae,Columbiformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+17,Poecile atricapilla,Paridae,Passeriformes,Aves,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Ochlerotatus trivittatus,,,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,Corvus,Corvidae,Passeriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,3,1,2,1,0,0,0,0
+20,Bubo virginianus,Strigidae,Strigiformes,Aves,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,2,2,0,0,0,0,0,0,0
+21,Anopheles messeae,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+22,Cyanocitta cristata,Corvidae,Passeriformes,Aves,4,0,10,1,4,3,2,2,6,0,2,5,1,6,5,7,11,3,0,3,7,7,10,2,4,6,6,3,1,0,0,0,0,0
+23,Colaptes auratus,Picidae,Piciformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Carpodacus mexicanus,Fringillidae,Passeriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+25,Ochlerotatus sollicitans,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+26,Phalacrocoracidae,Phalacrocoracidae,Suliformes,Aves,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Corvus brachyrhynchos,Corvidae,Passeriformes,Aves,9,10,36,3,2,3,9,5,8,8,2,6,2,3,16,5,22,9,3,3,8,12,8,9,13,10,15,11,25,4,0,0,0,0
+28,Accipiter gentilis,Accipitridae,Accipitriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+29,Corvus frugilegus,Corvidae,Passeriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+30,Phoenicopterus ruber,Phoenicopteridae,Phoenicopteriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+31,Passeriformes,,Passeriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+32,Falco,Falconidae,Falconiformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+33,Laridae,Laridae,Charadriiformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+34,Butorides virescens,Ardeidae,Pelecaniformes,Aves,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Zenaida macroura,Columbidae,Columbiformes,Aves,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+36,Pica pica,Corvidae,Passeriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+37,Aves,,,Aves,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1
+38,Mesocricetus auratus,Cricetidae,Rodentia,Mammalia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Camelus dromedarius,Camelidae,Artiodactyla,Mammalia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+40,Ochlerotatus triseriatus,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+41,Corvidae,Corvidae,Passeriformes,Aves,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0
+42,Ochlerotatus cantator,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+43,Dumetella,Mimidae,Passeriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+44,Mus musculus,Muridae,Rodentia,Mammalia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+45,Branta canadensis,Anatidae,Anseriformes,Aves,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Corvus corone cornix,Corvidae,Passeriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+47,Quiscalus quiscula,Icteridae,Passeriformes,Aves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Ochlerotatus sticticus,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Passer domesticus,Passeridae,Passeriformes,Aves,2,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,3,1,0,0,0,0,0,1,2,0,0,1,1,0,0,1,0,0
+50,Equus caballus,Equidae,Perissodactyla,Mammalia,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,4,5,5

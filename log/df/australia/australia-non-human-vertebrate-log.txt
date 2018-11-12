@@ -1,0 +1,1 @@
+Ecotype 1: [['KT934796', 'Equus caballus', 'Australia'], ['KT934803', 'Equus caballus', 'Australia'], ['JX123031', 'Equus caballus', 'Australia'], ['JN887352', 'Equus caballus', 'Australia'], ['JX123030', 'Equus caballus', 'Australia']]
